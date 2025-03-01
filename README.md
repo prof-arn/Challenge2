@@ -21,11 +21,11 @@ In this part of the process I had to come up with ideas to make the project look
 >- ![image](https://github.com/user-attachments/assets/65a98a8d-9c73-480e-9552-0088bc2460b9)
 >- After that I made multiple game modes and buttons on the main page that link to said game modes, for example I'm showing the battle button code
 >- ![image](https://github.com/user-attachments/assets/67b67c2f-db44-4448-83f8-03ac992d0d0b)
->- [the reason I made the game modes standalone instead of integrated is beceause I kept running into errors wich made the original buttons(glidergun,pulsar...ext)non functional)
+>- [the reason I made the game modes standalone instead of integrated is because I kept running into errors wich made the original buttons(glidergun,pulsar...ext)non functional)
 now for the next and final step
 ##### **3-The devil in the details:**
 >If you have been paying attention you may have realized I have yet to talk about the coloring and styling and UI in general,you may even ask why did I not talk about it in the beginning or before talking about the buttons and the functions?
->The reason is simple realy,**EVERY TIME I EVEN COME NEAR THE COLOR SCHEME OR THE OVERALL UI ELEMENTS OF THE ORIGINAL index.html FILE EVERYTHING STOPS WORKING AND IT WON'T WORK EVEN IF I REVERT TO A PREVIOUS VERSION OF THE FILE WICH MEANS, I HAVE TO REMAKE EVERYTHING AND I MEAN EVERYTHING ALL THE WAY FROM THE GROUND UP TO BEFORE I TOUCHED THE UI SO I CAN TRY CHANGE IT AGAIN, AND IT ALL HAPPENED 32 TIMES,32**.
+>The reason is simple really,**EVERY TIME I EVEN COME NEAR THE COLOR SCHEME OR THE OVERALL UI ELEMENTS OF THE ORIGINAL index.html FILE EVERYTHING STOPS WORKING AND IT WON'T WORK EVEN IF I REVERT TO A PREVIOUS VERSION OF THE FILE WICH MEANS, I HAVE TO REMAKE EVERYTHING AND I MEAN EVERYTHING ALL THE WAY FROM THE GROUND UP TO BEFORE I TOUCHED THE UI SO I CAN TRY CHANGE IT AGAIN, AND IT ALL HAPPENED 32 TIMES,32**.
 >Thankfully, And I don't know why, On the 33rd attempt for some reason I was able to change the color scheme slightily and that is when I stopped and considered myself done because even if it doesn't look good I'm not willing to risk wasting more hours of my life, thank you
 # **The conclusion:**
 If I don't end up getting the Hackathon ticket I'm leaving the challenge and thank you for reading.
